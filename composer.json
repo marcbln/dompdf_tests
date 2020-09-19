@@ -1,0 +1,22 @@
+{
+    "name": "marc/dompdf_tests",
+    "authors": [
+        {
+            "name": "Marc Christenfeldt",
+            "email": "marc.christenfeldt@gmx.de"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.6",
+        "whyoo-os/php-util": "^1.2",
+        "twig/twig": "^3.0",
+        "symfony/var-dumper": "^5.1",
+        "ext-json": "*",
+        "scssphp/scssphp": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mcx\\": "src/Mcx/"
+        }
+    }
+}

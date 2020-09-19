@@ -1,0 +1,84 @@
+{
+    "numGridRows": 12,
+    "numGridColumns": 12,
+    "gridAreas": [
+        {
+            "columnStart": 0,
+            "rowStart": 0,
+            "columnSpan": 2,
+            "rowSpan": 2
+        },
+        {
+            "columnStart": 2,
+            "rowStart": 0,
+            "columnSpan": 2,
+            "rowSpan": 2
+        },
+        {
+            "columnStart": 4,
+            "rowStart": 0,
+            "columnSpan": 6,
+            "rowSpan": 2
+        },
+        {
+            "columnStart": 10,
+            "rowStart": 0,
+            "columnSpan": 2,
+            "rowSpan": 4
+        },
+        {
+            "columnStart": 7,
+            "rowStart": 2,
+            "columnSpan": 3,
+            "rowSpan": 2
+        },
+        {
+            "columnStart": 0,
+            "rowStart": 2,
+            "columnSpan": 7,
+            "rowSpan": 6
+        },
+        {
+            "columnStart": 7,
+            "rowStart": 4,
+            "columnSpan": 3,
+            "rowSpan": 2
+        },
+        {
+            "columnStart": 10,
+            "rowStart": 4,
+            "columnSpan": 2,
+            "rowSpan": 2
+        },
+        {
+            "columnStart": 7,
+            "rowStart": 6,
+            "columnSpan": 5,
+            "rowSpan": 2
+        },
+        {
+            "columnStart": 0,
+            "rowStart": 8,
+            "columnSpan": 4,
+            "rowSpan": 3
+        },
+        {
+            "columnStart": 4,
+            "rowStart": 8,
+            "columnSpan": 6,
+            "rowSpan": 4
+        },
+        {
+            "columnStart": 10,
+            "rowStart": 8,
+            "columnSpan": 2,
+            "rowSpan": 4
+        },
+        {
+            "columnStart": 0,
+            "rowStart": 11,
+            "columnSpan": 4,
+            "rowSpan": 1
+        }
+    ]
+}

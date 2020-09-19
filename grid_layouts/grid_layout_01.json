@@ -1,0 +1,30 @@
+{
+    "numGridRows": "8",
+    "numGridColumns": "8",
+    "gridAreas": [
+        {
+            "columnStart": 0,
+            "rowStart": 0,
+            "columnSpan": 4,
+            "rowSpan": 4
+        },
+        {
+            "columnStart": 4,
+            "rowStart": 0,
+            "columnSpan": 4,
+            "rowSpan": 4
+        },
+        {
+            "columnStart": 0,
+            "rowStart": 4,
+            "columnSpan": 4,
+            "rowSpan": 4
+        },
+        {
+            "columnStart": 4,
+            "rowStart": 4,
+            "columnSpan": 4,
+            "rowSpan": 4
+        }
+    ]
+}
